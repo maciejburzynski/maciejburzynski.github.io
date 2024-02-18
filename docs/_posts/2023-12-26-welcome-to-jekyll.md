@@ -1,6 +1,6 @@
 ---
 title: "Eluwina byku"
-layout: post
+layout: posts
 date:   2023-12-26 20:52:10 +0100
 categories:
   - Edge Case
