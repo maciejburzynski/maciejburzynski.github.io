@@ -1,7 +1,6 @@
 ---
 title: "Edge Case: Nested and Mixed Lists"
 layout: posts
-author: Maciej Burzyński
 date:   2023-12-25 20:52:10 +0100
 categories:
   - Edge Case
@@ -67,64 +66,6 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                      [ Read 38 lines ]
-^G Get Help                    ^O WriteOut                    ^R Read File                   ^Y Prev Pg                     ^K Cut Text                    ^C Cur Pos
-^X Exit                        ^J Justify                     ^W Where is                    ^V Next Pg                     ^U UnCut Text                  ^T To Spell
-   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
-     Build Warning: Layout 'page' requested in about.markdown does not exist.
-                    done in 5.822 seconds.
- Auto-regeneration: enabled for '/Users/maciejburzynski/Desktop/Biurko — MacBook Air (maciejburzynski)/Repos/maciejburzynski.github.io/docs'
-    Server address: http://127.0.0.1:4000/
-  Server running... press ctrl-c to stop.
-[2024-02-15 21:51:49] ERROR `/favicon.ico' not found.
-^X^Z
-[2]+  Zatrzymano              bundle exec jekyll serve
-MacBook-Air-maciejburzynski:docs maciejburzynski$ git add .
-MacBook-Air-maciejburzynski:docs maciejburzynski$ git commit -n '1st after revert'
-error: pathspec '1st after revert' did not match any file(s) known to git
-MacBook-Air-maciejburzynski:docs maciejburzynski$ git push
-  UW PICO 5.09                                                                                 New Buffer
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
