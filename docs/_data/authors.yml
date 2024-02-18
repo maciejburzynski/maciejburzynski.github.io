@@ -7,7 +7,7 @@ Maciej Burzyński:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:maciej@itempotentni.pl"
     - label: "Linkedin"
-      icon: "fab fa fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/maciej-burzynski"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
