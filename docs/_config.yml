@@ -24,6 +24,7 @@ twitter_username: itempotentni
 github_username: itempotentni
 minimal_mistakes_skin: dark
 search: true
+baseurl: /maciejburzynski.github.io
 
 # Build settings
 markdown: kramdown
