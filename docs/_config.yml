@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 minimal_mistakes_skin    : "dark"
-baseurl                  : "/home""
+baseurl                  : "/home"
 
 title: Your awesome title
 email: your-email@example.com
