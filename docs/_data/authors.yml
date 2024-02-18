@@ -1,7 +1,7 @@
 Maciej Burzyński:
   name        : "Maciej Burzyński"
   bio         : "Patience is bitter, but its fruit is sweet. — Jean-Jacques Rousseavu"
-  avatar      : "maciejburzynski.github.io/docs/_data/static/images/maciej.jpg"
+  avatar      : "https://maciejburzynski.github.io/docs/_data/static/images/maciej.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
