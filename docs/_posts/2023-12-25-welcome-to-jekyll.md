@@ -1,6 +1,7 @@
 ---
 title: "Edge Case: Nested and Mixed Lists"
 layout: posts
+author: Maciej Burzyński
 date:   2023-12-25 20:52:10 +0100
 categories:
   - Edge Case
