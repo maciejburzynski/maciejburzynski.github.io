@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "ITempotentni"
-  avatar : "maciejburzynski.github.io/docs/_data/static/images/logo.jpg"
+  avatar : "maciejburzynski.github.io/assets/images/logo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
