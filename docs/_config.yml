@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "ITempotentni"
-  avatar : "./assets/images/logo.jpg"
+  avatar : "./assets/images/logo.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
