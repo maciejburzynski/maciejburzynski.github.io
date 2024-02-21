@@ -58,6 +58,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+header:
+  image: ./assets/images/logo.png
 
 author:
   name   : "ITempotentni"
