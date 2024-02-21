@@ -24,7 +24,6 @@ twitter_username: itempotentni
 github_username: itempotentni
 minimal_mistakes_skin: contrast
 search: true
-baseurl: /maciejburzynski.github.io
 
 # Build settings
 markdown: kramdown
@@ -61,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "ITempotentni
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
