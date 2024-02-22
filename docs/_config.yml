@@ -26,7 +26,7 @@ minimal_mistakes_skin: contrast
 search: true
 
 header:
-  overlay_image: ./assets/images/logo.png
+  overlay_image: "./assets/images/maciej.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
