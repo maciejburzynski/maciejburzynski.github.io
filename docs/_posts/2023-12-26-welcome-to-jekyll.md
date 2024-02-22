@@ -8,7 +8,7 @@ tags:
   - Jekyll
   - update
 header:
-  overlay_image: "/assets/images/maciej.jpg"
+  overlay_image: "/assets/images/logo.png"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "More Info"
