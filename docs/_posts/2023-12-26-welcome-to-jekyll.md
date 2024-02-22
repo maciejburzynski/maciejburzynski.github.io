@@ -7,6 +7,12 @@ categories:
 tags:
   - Jekyll
   - update
+header:
+  overlay_image: "/assets/images/maciej.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common 
