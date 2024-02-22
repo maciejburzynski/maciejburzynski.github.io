@@ -25,6 +25,13 @@ github_username: itempotentni
 minimal_mistakes_skin: contrast
 search: true
 
+header:
+  overlay_image: ./assets/images/logo.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
