@@ -15,7 +15,7 @@ Maciej Burzyński:
 Karolina Baranowska:
   name        : "Karolina Baranowska"
   bio         : "Patience is bitter, but its fruit is sweet. — Jean-Jacques Rousseavu"
-  avatar      : "https://raw.githubusercontent.com/maciejburzynski/maciejburzynski.github.io/itempotentni-prod/docs/_data/static/images/karolina.jpg"
+  avatar      : "https://raw.githubusercontent.com/maciejburzynski/maciejburzynski.github.io/itempotentni-prod/docs/_data/static/images/karolina.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -29,7 +29,7 @@ Karolina Baranowska:
 Piotr Pleciński:
   name        : "Piotr Pleciński"
   bio         : "Patience is bitter, but its fruit is sweet. — Jean-Jacques Rousseavu"
-  avatar      : "https://raw.githubusercontent.com/maciejburzynski/maciejburzynski.github.io/itempotentni-prod/docs/_data/static/images/piotr.jpg"
+  avatar      : "https://raw.githubusercontent.com/maciejburzynski/maciejburzynski.github.io/itempotentni-prod/docs/_data/static/images/piotr.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
